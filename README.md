@@ -38,17 +38,20 @@ I’m a passionate **Java Developer** and **Cloud Computing Enthusiast** special
 - Optimized traffic distribution efficiency by **40%** and reduced latency by **30%**.  
 - Built secure AWS infrastructure with **subnet segmentation** and **internet gateway configurations**.
 
-### 🔹 ProctorQube (Quiz Application)
-- **Tech Stack:** React.js, Node.js, Express.js, MongoDB, AWS EC2  
-- Real-time quiz delivery for **1000+ users** with Excel-based question uploads.  
-- Secure authentication using **bcryptjs** & **JWT**.
+🔹 SpringTasks (To-Do Application)
+
+Tech Stack: Spring Boot, Spring Data JPA, Spring Security, MySQL
+
+Efficient task management with CRUD operations and status tracking.
+
+Secure user authentication using JWT and role-based access control.
 
 ---
 
 ## 🛠 Skills
 - **Programming:** Java  
 - **Web Development:** HTML, CSS, JavaScript  
-- **Frameworks:** Node.js, Express.js, RESTful APIs  
+- **Frameworks:** SpringBoot, RESTful APIs  
 - **Cloud & DevOps:** AWS EC2, S3, ALB, Docker, Jenkins, Networking, Ubuntu  
 - **Version Control:** Git, GitHub  
 - **Databases:** MySQL

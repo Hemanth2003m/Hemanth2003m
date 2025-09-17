@@ -9,7 +9,7 @@
 ---
 
 ## 📖 About Me
-I’m a passionate **Java Developer** and **Cloud Computing Enthusiast** specializing in **AWS**, **Node.js**, and **full-stack development**. I love building scalable, high-performance applications, automating workflows, and optimizing cloud deployments for reliability and speed.
+I’m a passionate **Java Developer** and **Cloud Computing Enthusiast** specializing in **AWS**, **SpringBoot**, and **full-stack development**. I love building scalable, high-performance applications, automating workflows, and optimizing cloud deployments for reliability and speed.
 
 ---
 
@@ -23,7 +23,7 @@ I’m a passionate **Java Developer** and **Cloud Computing Enthusiast** special
 ## 💼 Experience
 ### **AWS Intern** – *Technical Hub* (2024 – 2025)  
 - Engineered and optimized **cloud-based deployments** on AWS using **EC2, S3, and Application Load Balancer**.  
-- Developed high-performance **RESTful APIs** with **Node.js** & **Express.js**, improving response times and implementing robust security.
+- Developed high-performance **RESTful APIs** with **Spring Framework** & **Spring Security**, improving response times and implementing robust security.
 
 ---
 
@@ -38,13 +38,11 @@ I’m a passionate **Java Developer** and **Cloud Computing Enthusiast** special
 - Optimized traffic distribution efficiency by **40%** and reduced latency by **30%**.  
 - Built secure AWS infrastructure with **subnet segmentation** and **internet gateway configurations**.
 
-🔹 SpringTasks (To-Do Application)
+### 🔹 SpringTasks (To-Do Application)
 
-Tech Stack: Spring Boot, Spring Data JPA, Spring Security, MySQL
-
-Efficient task management with CRUD operations and status tracking.
-
-Secure user authentication using JWT and role-based access control.
+- **Tech Stack:** Spring Boot, **Spring Data JPA**, Spring Security, MySQL
+- Efficient task management with CRUD operations and status tracking.
+- Secure user authentication using **JWT** and role-based access control.
 
 ---
 
@@ -59,7 +57,7 @@ Secure user authentication using JWT and role-based access control.
 ---
 
 ## 🏆 Certifications & Achievements
-- **AWS Developer – Associate**  
+- **AWS Cloud Developer – Associate**  
 - **Java Basic Certification – HackerRank**  
 - **Introduction to Networks – Cisco**  
 - Solved **270+ problems** on LeetCode  

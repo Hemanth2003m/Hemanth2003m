@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hemanth%20Chitikela-blue?logo=linkedin)](http://www.linkedin.com/in/hemanth-chitikela)
 [![GitHub](https://img.shields.io/badge/GitHub-Hemanth2003m-black?logo=github)](https://github.com/Hemanth2003m)
-[![AWS Certified Developer Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential/f2a14ef5823f47599fc9a26fef1d8865)
+
 
 ---
 
